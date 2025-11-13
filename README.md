@@ -1,6 +1,6 @@
 # Professional Contact
 
-For all business or career-related communications, please use the dedicated contact channel:
+For all business or career-related communications, email me here:
 **Email:** `markjacksoncbt@gmail.com`
 
 ---
@@ -9,7 +9,7 @@ For all business or career-related communications, please use the dedicated cont
 
 I do not accept donations or sponsorship.
 
-To support, please star the repositories you find useful and share with a friend.
+To support, give a star and share with a friend.
 
 ---
 
