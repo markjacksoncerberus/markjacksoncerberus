@@ -1,7 +1,7 @@
 # Professional Contact
 
 For all business or career-related communications, email me here:
-**Email:** `markjacksoncbt@gmail.com`
+**Email:** `markjacksoncbt\/@\/gmail.com`
 
 ---
 
